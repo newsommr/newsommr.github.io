@@ -1,7 +1,8 @@
 ---
 layout: page
-subtitle: Office of the Director of National Intelligence Annual Statistical Transparency Report Regarding the Intelligence Community’s Use of National Security Surveillance Authorities
 ---
+
+Office of the Director of National Intelligence Annual Statistical Transparency Report Regarding the Intelligence Community’s Use of National Security Surveillance Authorities
 
 - [FY2013](FY2013.pdf)
 - [FY2014](FY2014.pdf)
