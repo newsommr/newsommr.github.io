@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Office of the Director of National Intelligence
+title: Office of the Director of National Intelligence
 Annual Statistical Transparency Report
 Regarding the Intelligence Community’s
 Use of National Security Surveillance Authorities
