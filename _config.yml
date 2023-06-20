@@ -22,7 +22,7 @@ author: Riley Newsome
 navbar-links:
   About Me: "aboutme"
   Archives:
-    - National Security: "https://newsommr.github.com/archive/national-security"
+    - National Security: "newsommr/newsommr.github.io/archives/security-research/README.md"
     - Security Research: "https://newsommr.github.com/archive/security-research"
   Substack: "https://substack.com/@cipherkeeper"
 
