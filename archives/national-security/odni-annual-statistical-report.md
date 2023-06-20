@@ -13,4 +13,4 @@ Office of the Director of National Intelligence Annual Statistical Transparency 
 - [FY2019](FY2019.pdf) 
 - [FY2020](FY2020.pdf) 
 - [FY2021](FY2021.pdf) 
-- FY2022: [Original](https://www.dni.gov/files/CLPT/documents/2023_ASTR_for_CY2022.pdf) [Archive](https://web.archive.org/web/20230602091139/https://www.dni.gov/files/CLPT/documents/2023_ASTR_for_CY2022.pdf)
+- FY2022: [Original](https://www.dni.gov/files/CLPT/documents/2023_ASTR_for_CY2022.pdf) / [Archive](https://web.archive.org/web/20230602091139/https://www.dni.gov/files/CLPT/documents/2023_ASTR_for_CY2022.pdf)
