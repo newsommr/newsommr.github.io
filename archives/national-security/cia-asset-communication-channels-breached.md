@@ -1,5 +1,8 @@
 ---
 layout: page
+share-title: In 2009, CIA asset communication channels were compromised
+share-description: From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised.
+tags: [CIA, cia asset, communication channel compromised]
 ---
 
 From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised.

@@ -1,6 +1,9 @@
 ---
 layout: page
-title: XNU Security Research
+title: XNU Security Archive
+share-title: XNU Security Archive
+share-description: This page serves as an archived repository for important research into iOS/macOS security and the Apple ecosystem
+tags: [apple, apple security, ios, ios security, iphone, iphone security, mobile security research, xnu, xnu security]
 ---
 
 A collection of important talks/research into iOS/macOS security. All links are archived in the case that the original becomes unavailable. File contents are not modified, though file names may differ. If the site wasn't able to be archived, a pdf of the page is included in the repository. If the original source is avaiable, please use it. It is important to recognize the authors for their substantial contributions to their respective fields.

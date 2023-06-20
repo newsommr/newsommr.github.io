@@ -1,5 +1,8 @@
 ---
 layout: page
+share-title: ODNI Annual Transprancy Reports
+share-description: This page serves as an archived repository for ODNI Annual Transprancy Reports
+tags: [odni, director of national intelligence, annual statistical transparency report, national security, surveillance authorities]
 ---
 
 Office of the Director of National Intelligence Annual Statistical Transparency Report Regarding the Intelligence Community’s Use of National Security Surveillance Authorities

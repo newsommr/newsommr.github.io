@@ -1,11 +1,12 @@
 ---
 layout: page
 title: National Security Archive
-subtitle: A collection of important discussions regarding national security. All links are archived in the case that the original becomes unavailable. If the site wasn’t able to be archived, a pdf of the page is included in the repository. If the original source is avaiable, please use it. It is important to recognize the authors for their substantial contributions to their respective fields.
 share-title: National Security Archive
 share-description: This page serves as an archived repository for important research into U.S. national security.
 tags: [u.s. national security, national security, odni, odni annual report, odni national security, national security archive]
 ---
+
+A collection of important discussions regarding national security. All links are archived in the case that the original becomes unavailable. If the site wasn’t able to be archived, a pdf of the page is included in the repository. If the original source is avaiable, please use it. It is important to recognize the authors for their substantial contributions to their respective fields.
 
 
 **[Office of the Director of National Intelligence Annual Statistical Transparency Report Regarding the Intelligence Community’s Use of National Security Surveillance Authorities](national-security/odni-annual-statistical-report.md)**
