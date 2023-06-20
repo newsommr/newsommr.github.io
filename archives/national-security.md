@@ -9,7 +9,7 @@ A collection of important discussions regarding national security. All links are
 
 **[Office of the Director of National Intelligence Annual Statistical Transparency Report Regarding the Intelligence Community’s Use of National Security Surveillance Authorities](national-security/odni-annual-statistical-report.md)**
 
-**[CIA's Asset Communication Channels Breached](cia-asset-communication-channels-breached/README.md)**
+**[CIA's Asset Communication Channels Breached](national-security/cia-asset-communication-channels-breached.md)**
 - From 2009 to 2013 the communication channels the CIA uses to contact assets in foreign countries was compromised.
 
 **2023**

@@ -23,7 +23,6 @@ navbar-links:
   About Me: "aboutme"
   Archives:
     - National Security: "https://newsommr.github.io/archives/national-security"
-      - Annual IC Transparency Reports: "https://newsommr.github.io/archives/national-security/odni-annual-statistical-report/" 
     - Security Research: "https://newsommr.github.io/archives/security-research"
   Substack: "https://substack.com/@cipherkeeper"
 
