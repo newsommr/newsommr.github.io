@@ -20,7 +20,7 @@ author: Riley Newsome
 ###############################################
 
 navbar-links:
-  Home: "index"
+  Home: ""
   Archives:
     - National Security: "https://newsommr.github.io/archives/national-security"
     - Security Research: "https://newsommr.github.io/archives/security-research"
