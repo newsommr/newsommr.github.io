@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hello! I am Riley and I run a blog called [ChiperKeerp](https://substack.com/@cipherkeeper), which aims to bring lower-level security discussions
+Hello! I am Riley and I run a blog called [CipherKeeper](https://substack.com/@cipherkeeper), which aims to bring lower-level security discussions
 onto the surface for myself and others.
 
 My two favorite research areas are:
